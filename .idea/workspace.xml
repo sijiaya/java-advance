@@ -2,63 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="041bc15a-93d7-46ce-b5ab-e38c488cdd78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/CalendarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/FlowLayoutPoem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/GridLayoutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/hello_161423.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/io-study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/FileCopy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/FileCopy2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/FileDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/FolderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/FolderTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/FolderTest3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/ImageFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/TestCopy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/io-study/src/com/soft1841/io/TestCopy2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/java-advanced.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/META-INF/io-study.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/FileCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/FileCopy2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/FileDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/FolderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/FolderTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/FolderTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/ImageFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/TestCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/io-study/com/soft1841/io/TestCopy2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/java-advanced/META-INF/java-advanced.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/java-advanced/com/soft1841/list/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/java-advanced/com/soft1841/map/HashMapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/java-advanced/com/soft1841/set/HashSetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/java-advanced/com/soft1841/set/TreeSetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/swing-study/META-INF/swing-study.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/swing-study/com/soft1841/swing/LoginFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/swing-study/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/util/META-INF/util.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/util/com/java/util/IntegerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/util/com/java/util/MathDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/util/com/java/util/RandomColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/out/production/util/com/java/util/RandomDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/src/com/soft1841/io/list/ListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/src/com/soft1841/io/map/HashMapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/src/com/soft1841/io/set/HashSetTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/src/com/soft1841/io/set/TreeSetTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/swing-study/jar/beautyeye_lnf.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/swing-study/src/com/soft1841/swing/LoginFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/swing-study/src/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/swing-study/swing-study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-advanced/util" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/io-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FileCopy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FolderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FolderTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FolderTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/ImageFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/TestCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/TestCopy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/jar/beautyeye_lnf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/LoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/src/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/swing-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/IntegerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/MathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/RandomColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/RandomDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/io-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/util/IntegerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/util/MathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/util/RandomColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/util/RandomDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/util.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-gui-samples" beforeDir="false" afterPath="$PROJECT_DIR$/../java-gui-samples" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vacation" beforeDir="false" afterPath="$PROJECT_DIR$/../vacation" afterDir="false" />
     </list>
@@ -105,9 +77,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1088" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -151,19 +123,19 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaStudy\java-advance\swing-study\src\com\soft1841\swing" />
+      <recent name="D:\JavaStudy\java-advance\util-study\src" />
+      <recent name="D:\JavaStudy\java-advance\io-study\src" />
+      <recent name="D:\JavaStudy\java-advance\swing-study\src\img" />
       <recent name="D:\JavaStudy\java-advance\swing-study\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.soft1841.swing" />
       <recent name="swing" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaStudy\java-advance\util-study\src" />
-      <recent name="D:\JavaStudy\java-advance\io-study\src" />
-      <recent name="D:\JavaStudy\java-advance\swing-study\src\img" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JavaStudy\java-advance\swing-study\src" />
-      <recent name="D:\JavaStudy\java-advance\swing-study" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,12 +182,20 @@
       <updated>1553727632980</updated>
       <workItem from="1553727636555" duration="950000" />
       <workItem from="1553728648129" duration="678000" />
-      <workItem from="1553769532919" duration="244000" />
+      <workItem from="1553769532919" duration="371000" />
     </task>
+    <task id="LOCAL-00001" summary="Swing布局管理器">
+      <created>1553769859903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553769859903</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1872000" />
+    <option name="totallyTimeSpent" value="1999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -253,6 +233,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Swing布局管理器" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swing布局管理器" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/util/src/util/IntegerDemo.java">
