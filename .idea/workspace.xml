@@ -2,35 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="041bc15a-93d7-46ce-b5ab-e38c488cdd78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/io-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FileCopy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FolderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FolderTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/FolderTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/ImageFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/TestCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study/src/com/soft1841/io/TestCopy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/jar/beautyeye_lnf.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/LoginFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/src/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/swing-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/IntegerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/MathDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/RandomColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/RandomDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/io-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/util/IntegerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/util/MathDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/util/RandomColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/util/RandomDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/util.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/CalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/FlowLayoutPoem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/GridLayoutTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-advanced/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-advanced/.idea/misc.xml" beforeDir="false" />
@@ -92,10 +69,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,6 +86,12 @@
         <option value="$PROJECT_DIR$/io-study/src/util/MathDemo.java" />
         <option value="$PROJECT_DIR$/util-study/src/util/MathDemo.java" />
         <option value="$PROJECT_DIR$/util-study/src/com/soft1841/util/MathDemo.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutPosition.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutTest.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/CalendarDemo.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/EnumTest.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/FlowLayoutPoem.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/soft1841/swing/GridLayoutTest.java" />
       </list>
     </option>
   </component>
@@ -122,29 +105,36 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="util-study" type="462c0819:PsiDirectoryNode" />
+              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,17 +209,18 @@
       <option name="presentableId" value="Default" />
       <updated>1553727632980</updated>
       <workItem from="1553727636555" duration="950000" />
-      <workItem from="1553728648129" duration="308000" />
+      <workItem from="1553728648129" duration="678000" />
+      <workItem from="1553769532919" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1258000" />
+    <option name="totallyTimeSpent" value="1872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34182304" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22050938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,7 +237,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32963988" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -326,6 +317,28 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/util-study/src/com/soft1841/util/MathDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/GridLayoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/FlowLayoutPoem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/CalendarDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutPosition.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
