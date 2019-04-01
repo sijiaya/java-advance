@@ -19,8 +19,6 @@ public class ImageFrame extends JFrame {
     private JButton[] buttons;
     //标签，用来容纳图片
     private JLabel imgLabel;
-    private JLabel time;
-    private JLabel length;
     //用来接收图片
     private Icon icon;
     //放入路径
