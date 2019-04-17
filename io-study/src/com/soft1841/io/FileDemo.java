@@ -3,7 +3,7 @@ package com.soft1841.io;
 import java.io.File;
 import java.io.IOException;
 
-public class FileDemo1 {
+public class FileDemo {
     public static void main(String[] args) throws IOException {
         //创建文件对象
         File file = new File("E:/README.md");

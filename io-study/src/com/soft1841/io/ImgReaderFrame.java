@@ -4,14 +4,15 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-import java.io.*;
-
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
 
 /**
  * 图片读取窗体
  */
-public class ImgReaderFrame extends JFrame implements ActionListener {
+class ImgReaderFrame extends JFrame implements ActionListener {
     private JTextField inputField;
     private JButton confirmButton;
     private JPanel topPanel;

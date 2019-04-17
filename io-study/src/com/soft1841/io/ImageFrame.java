@@ -1,6 +1,5 @@
 package com.soft1841.io;
 
-
 import javax.swing.*;
 import java.awt.*;
 import java.io.File;
@@ -44,8 +43,8 @@ public class ImageFrame extends JFrame {
         //创建5个按钮
         buttons = new JButton[5];
         for (int i =0;i<5;i++){
-           buttons[i] = new JButton("按钮"+i+1);
-           topPanel.add(buttons[i]);
+            buttons[i] = new JButton("按钮"+i+1);
+            topPanel.add(buttons[i]);
         }
         add(topPanel, BorderLayout.NORTH);
 
@@ -55,9 +54,9 @@ public class ImageFrame extends JFrame {
         FileInputStream in ;
         byte[] bytes = null;
         try {
-             in = new FileInputStream(srcFile);
-             bytes = new byte[(int) srcFile.length()];
-             in.read(bytes);
+            in = new FileInputStream(srcFile);
+            bytes = new byte[(int) srcFile.length()];
+            in.read(bytes);
         }catch (IOException e){
             System.out.println("IO异常");
         }

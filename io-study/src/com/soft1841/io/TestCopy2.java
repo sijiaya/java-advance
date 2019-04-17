@@ -19,7 +19,7 @@ public class TestCopy2 {
         //2、通过字节流输出
         byte[] bytes = inputString.getBytes();
         File destFile2 = new File("E:/result2.txt");
-        OutputStream  out2 = new FileOutputStream(destFile2);
+        OutputStream out2 = new FileOutputStream(destFile2);
         out2.write(bytes);
         out2.close();
         //3、通过打印流输出

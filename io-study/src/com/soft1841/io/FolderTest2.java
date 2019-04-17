@@ -1,4 +1,5 @@
 package com.soft1841.io;
+
 import java.io.File;
 
 /**
@@ -16,8 +17,8 @@ public class FolderTest2 {
 //            }
             //当文件夹不存在时创建文件夹
             if (!path.exists()){
-               path.mkdirs();
+                path.mkdirs();
             }
-            }
+        }
     }
 }

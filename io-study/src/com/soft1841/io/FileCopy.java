@@ -1,6 +1,5 @@
 package com.soft1841.io;
 
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

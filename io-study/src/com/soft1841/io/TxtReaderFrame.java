@@ -4,7 +4,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.*;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
 
 /**
  * txt文件阅读器窗体
@@ -45,7 +48,7 @@ public class TxtReaderFrame extends JFrame implements ActionListener {
         //监听在本窗体发生作用（给按钮注册监听）
         confirmButton.addActionListener(this);
 
-        add(topPanel,BorderLayout.NORTH);
+        add(topPanel, BorderLayout.NORTH);
         //中间的多行文本域
         contentArea = new JTextArea();
         add(contentArea,BorderLayout.CENTER);
