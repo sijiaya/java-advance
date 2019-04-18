@@ -14,7 +14,7 @@ import java.io.IOException;
  * 2019.4.18
  */
 public class JSoupDemo1 {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
         //1、指定目标页面链接
         String url = "https://www.jianshu.com/";
         //2、建立与目标页面的连接
