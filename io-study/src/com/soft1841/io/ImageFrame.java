@@ -50,7 +50,7 @@ public class ImageFrame extends JFrame {
 
         imgLabel = new JLabel("");
         //读入本地图片到内存的字节数组
-        File srcFile = new File("D:/bj.jpg");
+        File srcFile = new File("D:/img/1.png");
         FileInputStream in ;
         byte[] bytes = null;
         try {
