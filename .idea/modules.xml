@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Graphics-study/Graphics-study.iml" filepath="$PROJECT_DIR$/Graphics-study/Graphics-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/io-study/io-study.iml" filepath="$PROJECT_DIR$/io-study/io-study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/server-study/server-study.iml" filepath="$PROJECT_DIR$/server-study/server-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-study/socket-study.iml" filepath="$PROJECT_DIR$/socket-study/socket-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/swing-study/swing-study.iml" filepath="$PROJECT_DIR$/swing-study/swing-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-study/thread-study.iml" filepath="$PROJECT_DIR$/thread-study/thread-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/util-study/util-study.iml" filepath="$PROJECT_DIR$/util-study/util-study.iml" />
