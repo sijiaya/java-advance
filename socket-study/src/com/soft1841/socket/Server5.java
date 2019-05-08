@@ -17,16 +17,16 @@ public class Server5 {
         System.out.println("服务器启动");
         while (true){
             Socket socket = serverSocket.accept();
-            Server5Thread server = new Server5Thread(socket);
+            ServerThread5 server = new ServerThread5(socket);
             new Thread(server).start();
         }
     }
 }
 
-class Server5Thread implements Runnable{
+class ServerThread5 implements Runnable{
     private Socket socket;
 
-    public Server5Thread(Socket socket){
+    public ServerThread5(Socket socket){
         this.socket = socket;
     }
     @Override
