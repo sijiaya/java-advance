@@ -8,7 +8,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * 客户端向服务器端发送发送文本数据——控制台版本
+ * 客户端向服务器端发送文本数据——控制台版本
  * server服务器端
  */
 public class Server3 {
