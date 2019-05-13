@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.soft1841.gui.YouKuFrame">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="1594" height="1188"/>
+    </constraints>
+    <properties>
+      <background color="-14275792"/>
+      <enabled value="false"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <scrollpane id="49ad0" binding="scroll">
+        <constraints border-constraint="East"/>
+        <properties>
+          <horizontalScrollBarPolicy value="31"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </scrollpane>
+      <grid id="9aa40" binding="leftPanel" layout-manager="GridLayoutManager" row-count="11" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="10" vgap="40">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints border-constraint="West"/>
+        <properties>
+          <background color="-14275792"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="1320a" class="javax.swing.JButton" binding="剧集Button" default-binding="true">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="剧集"/>
+            </properties>
+          </component>
+          <component id="d98d6" class="javax.swing.JButton" binding="精选Button" default-binding="true">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="精选"/>
+            </properties>
+          </component>
+          <component id="b457f" class="javax.swing.JButton" binding="电影Button" default-binding="true">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="电影"/>
+            </properties>
+          </component>
+          <component id="973ef" class="javax.swing.JButton" binding="综艺Button" default-binding="true">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="综艺"/>
+            </properties>
+          </component>
+          <component id="b0f52" class="javax.swing.JButton" binding="少儿Button" default-binding="true">
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="少儿"/>
+            </properties>
+          </component>
+          <component id="3376b" class="javax.swing.JButton" binding="音乐Button" default-binding="true">
+            <constraints>
+              <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="音乐"/>
+            </properties>
+          </component>
+          <component id="d952a" class="javax.swing.JButton" binding="动漫Button" default-binding="true">
+            <constraints>
+              <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="动漫"/>
+            </properties>
+          </component>
+          <component id="7814a" class="javax.swing.JButton" binding="游戏Button" default-binding="true">
+            <constraints>
+              <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="游戏"/>
+            </properties>
+          </component>
+          <component id="cf556" class="javax.swing.JButton" binding="搞笑Button" default-binding="true">
+            <constraints>
+              <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="搞笑"/>
+            </properties>
+          </component>
+          <component id="131fa" class="javax.swing.JButton" binding="资讯Button" default-binding="true">
+            <constraints>
+              <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="40"/>
+              </grid>
+            </constraints>
+            <properties>
+              <text value="资讯"/>
+            </properties>
+          </component>
+          <vspacer id="769aa">
+            <constraints>
+              <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </vspacer>
+        </children>
+      </grid>
+      <grid id="4a51c" binding="topPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="North"/>
+        <properties>
+          <autoscrolls value="false"/>
+          <background color="-14275792"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="5f73f" binding="headPanel" layout-manager="FlowLayout" hgap="30" vgap="10" flow-align="0">
+            <constraints border-constraint="South"/>
+            <properties>
+              <background color="-14275792"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="5f100" class="javax.swing.JLabel" binding="iconLabel">
+                <constraints/>
+                <properties>
+                  <icon value="img/icon.JPG"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="90957" class="javax.swing.JButton" binding="主页Button" default-binding="true">
+                <constraints/>
+                <properties>
+                  <alignmentY value="0.5"/>
+                  <preferredSize width="120" height="40"/>
+                  <text value="主页"/>
+                </properties>
+              </component>
+              <component id="9629b" class="javax.swing.JButton" binding="播放Button" default-binding="true">
+                <constraints/>
+                <properties>
+                  <preferredSize width="120" height="40"/>
+                  <text value="播放"/>
+                </properties>
+              </component>
+              <component id="60a59" class="javax.swing.JButton" binding="来疯Button" default-binding="true">
+                <constraints/>
+                <properties>
+                  <preferredSize width="120" height="40"/>
+                  <text value="来疯"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="381ad" binding="centerPanel" layout-manager="BorderLayout" hgap="30" vgap="60">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <background color="-14275792"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="d8ca0" class="javax.swing.JLabel" binding="photo1Label">
+            <constraints border-constraint="West"/>
+            <properties>
+              <font size="20"/>
+              <foreground color="-13948417"/>
+              <icon value="img/photo1.JPG"/>
+              <text value=""/>
+            </properties>
+          </component>
+          <grid id="f1af7" binding="filmPanel" layout-manager="FlowLayout" hgap="30" vgap="140" flow-align="0">
+            <constraints border-constraint="South"/>
+            <properties>
+              <background color="-14275792"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="129b8" class="javax.swing.JLabel" binding="photo6Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/photo6.JPG"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="e8f4b" class="javax.swing.JLabel" binding="photo5Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/photo5.JPG"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="f592c" class="javax.swing.JLabel" binding="photo4Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/photo4.JPG"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="88c1a" class="javax.swing.JLabel" binding="photo3Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/photo3.JPG"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="93643" class="javax.swing.JLabel" binding="photo2Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/photo2.JPG"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <component id="16a55" class="javax.swing.JLabel" binding="likeLabel">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <background color="-14275792"/>
+              <icon value="img/like.JPG"/>
+              <text value=""/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

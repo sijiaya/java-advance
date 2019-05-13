@@ -4,6 +4,9 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ * QQ登录
+ */
 public class TimLoginFrame {
     private JPanel mainPanel;
     private JLabel bannerLabel;

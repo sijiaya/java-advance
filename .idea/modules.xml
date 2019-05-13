@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/socket-study/socket-study.iml" filepath="$PROJECT_DIR$/socket-study/socket-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/swing-study/swing-study.iml" filepath="$PROJECT_DIR$/swing-study/swing-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-study/thread-study.iml" filepath="$PROJECT_DIR$/thread-study/thread-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/url-study/url-study.iml" filepath="$PROJECT_DIR$/url-study/url-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/util-study/util-study.iml" filepath="$PROJECT_DIR$/util-study/util-study.iml" />
     </modules>
   </component>
