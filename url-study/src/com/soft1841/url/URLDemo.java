@@ -9,7 +9,7 @@ import java.net.URL;
 public class URLDemo {
     public static void main(String[] args) {
         try {
-            URL url = new URL("https://www.jianshu.com/u/10e529353c72");
+            URL url = new URL("http://www.runoob.com/index.html?language =cn#j2se");
             System.out.println("URL 为:"+url.toString());
             System.out.println("协议为："+url.getProtocol());
             System.out.println("验证信息："+url.getAuthority());

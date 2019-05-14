@@ -7,56 +7,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="041bc15a-93d7-46ce-b5ab-e38c488cdd78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CouldMusicFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/CouldMusicFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/YouKuFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/YoukuFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/safeFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/safeFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/bottom.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/icon.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/like.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/music1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/music2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/music3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/music4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/music5.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/p1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/p2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/p3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/photo1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/photo2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/photo3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/photo4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/photo5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/photo6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/right.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/top.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/url-study/src/com/soft1841/url/URLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/url-study/url-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc-study/jdbc-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc-study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/libraries/Maven__com_alibaba_fastjson_1_2_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/NewsFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/NewsFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/service/JuHeApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/service/MenuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url-study/src/com/soft1841/url/URLDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/url-study/src/com/soft1841/url/URLDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-gui-samples" beforeDir="false" afterPath="$PROJECT_DIR$/../java-gui-samples" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vacation" beforeDir="false" afterPath="$PROJECT_DIR$/../vacation" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/jdbc-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/url-study/src/com/soft1841/url/URLDemo.java">
+        <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="672">
+              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -78,8 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/timer/ShadeBackFrame.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/test/LoginFrame(2).java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/test/LoginFrame.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/test/ShadePanel.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/timer/TimeTest2(1).java" />
@@ -129,6 +133,8 @@
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/safeFrame.java" />
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/safeFrame.form" />
         <option value="$PROJECT_DIR$/url-study/src/com/soft1841/url/URLDemo.java" />
+        <option value="$PROJECT_DIR$/jdbc-study/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java" />
       </list>
     </option>
   </component>
@@ -140,6 +146,11 @@
         <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -148,8 +159,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -161,9 +172,29 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
               <item name="thread-study" type="462c0819:PsiDirectoryNode" />
@@ -179,20 +210,39 @@
             </path>
             <path>
               <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="url-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="url-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="url" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="util-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="util-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="89" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557785351237" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557875760457" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/thread-study/jar/jsoup-1.11.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -236,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.URLDemo">
+  <component name="RunManager" selected="Application.JDBCDemo1">
     <configuration name="CouldMusicFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1841.gui.CouldMusicFrame" />
       <module name="gui-form" />
@@ -250,12 +300,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimLoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.gui.TimLoginFrame" />
-      <module name="gui-form" />
+    <configuration name="JDBCDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.jdbc.JDBCDemo1" />
+      <module name="jdbc-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.gui.*" />
+          <option name="PATTERN" value="com.soft1841.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBCDemo1" />
         <item itemvalue="Application.URLDemo" />
         <item itemvalue="Application.safeFrame" />
         <item itemvalue="Application.YouKuFrame" />
         <item itemvalue="Application.CouldMusicFrame" />
-        <item itemvalue="Application.TimLoginFrame" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +462,10 @@
       <workItem from="1557749103650" duration="1607000" />
       <workItem from="1557750743839" duration="1105000" />
       <workItem from="1557784714874" duration="114000" />
-      <workItem from="1557784851674" duration="466000" />
+      <workItem from="1557784851674" duration="1182000" />
+      <workItem from="1557791603910" duration="1986000" />
+      <workItem from="1557872715049" duration="658000" />
+      <workItem from="1557873801782" duration="1753000" />
     </task>
     <task id="LOCAL-00001" summary="Swing布局管理器">
       <created>1553769859903</created>
@@ -439,13 +492,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232413000" />
+    <option name="totallyTimeSpent" value="237526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.18565683" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.14343163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,7 +507,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50138503" side_tool="true" weight="0.2774799" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3559557" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.54847646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -469,7 +522,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.32918397" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -523,27 +576,10 @@
     <MESSAGE value="Java编程：服务器向客户端发送非文本数据" />
     <MESSAGE value="Java编程：UDP协议案例" />
     <MESSAGE value="GUI-FORM的练习（一）" />
-    <option name="LAST_COMMIT_MESSAGE" value="GUI-FORM的练习（一）" />
+    <MESSAGE value="了解URL完整组成" />
+    <option name="LAST_COMMIT_MESSAGE" value="了解URL完整组成" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/io-study/src/com/soft1841/io/TxtReaderFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="85" column="19" lean-forward="true" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
-          <folding>
-            <element signature="e#1539#1540#0" expanded="true" />
-            <element signature="e#1575#1576#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/io-study/src/com/soft1841/io/ImgReaderFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/io-study/src/com/soft1841/io/TestCopy2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -896,11 +932,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/url-study/src/com/soft1841/url/URLDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="252">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-study/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
         </state>
       </provider>
     </entry>
