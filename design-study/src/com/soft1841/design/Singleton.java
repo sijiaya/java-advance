@@ -1,4 +1,4 @@
-package com.soft1841.util;
+package com.soft1841.design;
 
 public class Singleton {
     //创建Singleton的一个对象
