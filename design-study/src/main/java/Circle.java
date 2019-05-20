@@ -1,5 +1,3 @@
-package com.soft1841.design;
-
 /**
  * Circle实现类
  */

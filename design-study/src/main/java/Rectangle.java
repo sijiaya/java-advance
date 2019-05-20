@@ -1,5 +1,3 @@
-package com.soft1841.design;
-
 /**
  * Rectangle实现类
  * 5.21

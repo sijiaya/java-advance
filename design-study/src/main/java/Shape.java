@@ -1,5 +1,3 @@
-package com.soft1841.design;
-
 /**
  * Shape接口
  */

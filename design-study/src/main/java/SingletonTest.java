@@ -1,5 +1,3 @@
-package com.soft1841.design;
-
 /**
  * 单例模式的测试程序
  */

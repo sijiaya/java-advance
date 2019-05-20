@@ -1,5 +1,3 @@
-package com.soft1841.design;
-
 public class ShapeFactory {
     public static Shape getCircleInstance(){
         return new Circle();
