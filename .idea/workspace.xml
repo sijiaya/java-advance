@@ -7,17 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="041bc15a-93d7-46ce-b5ab-e38c488cdd78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/logo.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-study/src/com/soft1841/util/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/Films.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/FilmFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/FilmFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/service/FilmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/aiqiyi.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/cho.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/choose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/content.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/dm.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/dsj.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/dy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/ert.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/movie.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/zy.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/YouKuFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/YoukuFrame.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/safeFrame.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/safeFrame.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-gui-samples" beforeDir="false" afterPath="$PROJECT_DIR$/../java-gui-samples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/Movie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/MovieFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/MovieFrame.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/MovieFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/MovieFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/News1Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/News1Frame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/service/MovieService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vacation" beforeDir="false" afterPath="$PROJECT_DIR$/../vacation" afterDir="false" />
     </list>
@@ -47,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-112">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="336">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,14 +68,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="476">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util-study/src/com/soft1841/util/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <folding>
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/util-study/src/com/soft1841/util/SingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -85,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/test/TimeTest2.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/test/TimeFrame.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/timer/ClockFrame.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/timer/LoginFrame.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/crawler/JSoupDemo2.java" />
@@ -134,8 +168,10 @@
         <option value="$PROJECT_DIR$/jdbc-study/pom.xml" />
         <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java" />
         <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo2.java" />
-        <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" />
         <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java" />
+        <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" />
+        <option value="$PROJECT_DIR$/util-study/src/com/soft1841/util/Singleton.java" />
+        <option value="$PROJECT_DIR$/util-study/src/com/soft1841/util/SingletonTest.java" />
       </list>
     </option>
   </component>
@@ -172,67 +208,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
+              <item name="util-study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
+              <item name="util-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
+              <item name="util-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thread-study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="url-study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="url-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="url-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="url" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -240,7 +238,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="89" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558045380109" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558311724222" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/thread-study/jar/jsoup-1.11.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -284,20 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JDBCDemo4">
-    <configuration name="JDBCDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.jdbc.JDBCDemo1" />
-      <module name="jdbc-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1841.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SingletonTest">
     <configuration name="JDBCDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1841.jdbc.JDBCDemo2" />
       <module name="jdbc-study" />
@@ -337,6 +322,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.util.SingletonTest" />
+      <module name="util-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1841.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="URLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1841.url.URLDemo" />
       <module name="url-study" />
@@ -352,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBCDemo4" />
+        <item itemvalue="Application.SingletonTest" />
         <item itemvalue="Application.JDBCDemo3" />
+        <item itemvalue="Application.JDBCDemo4" />
         <item itemvalue="Application.URLDemo" />
         <item itemvalue="Application.JDBCDemo2" />
-        <item itemvalue="Application.JDBCDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +471,14 @@
       <workItem from="1558004477648" duration="606000" />
       <workItem from="1558013592387" duration="1527000" />
       <workItem from="1558043896557" duration="914000" />
-      <workItem from="1558044831691" duration="525000" />
+      <workItem from="1558044831691" duration="743000" />
+      <workItem from="1558051014926" duration="18000" />
+      <workItem from="1558060250592" duration="365000" />
+      <workItem from="1558060646315" duration="18000" />
+      <workItem from="1558105851303" duration="250000" />
+      <workItem from="1558106635085" duration="2137000" />
+      <workItem from="1558235181544" duration="634000" />
+      <workItem from="1558311166787" duration="425000" />
     </task>
     <task id="LOCAL-00001" summary="Swing布局管理器">
       <created>1553769859903</created>
@@ -510,17 +515,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557958754230</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JDBC:更新和删除数据">
+      <created>1558045421403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558045421403</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244100000" />
+    <option name="totallyTimeSpent" value="248165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.21179625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.22587131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -529,7 +541,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50138503" side_tool="true" weight="0.2774799" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.30609417" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.30470914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -601,23 +613,10 @@
     <MESSAGE value="了解URL完整组成" />
     <MESSAGE value="JDBC起步练习" />
     <MESSAGE value="JDBC:向数据表增加一条记录" />
-    <option name="LAST_COMMIT_MESSAGE" value="JDBC:向数据表增加一条记录" />
+    <MESSAGE value="JDBC:更新和删除数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDBC:更新和删除数据" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/CarouselThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/swing/BorderLayoutTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -920,16 +919,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -951,10 +940,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="336">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -963,11 +962,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="476">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util-study/src/com/soft1841/util/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util-study/src/com/soft1841/util/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
     </entry>
