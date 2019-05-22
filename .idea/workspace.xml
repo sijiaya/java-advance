@@ -7,27 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="041bc15a-93d7-46ce-b5ab-e38c488cdd78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/AdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/Sports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/Study.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/DepartmentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/DepartmentDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/impl/DepartmentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/ui/ImgPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/ui/TimeThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentDAOImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/impl/DepartmentServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../supermarket/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../supermarket/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../supermarket/.idea/supermarket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/ProxyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/utils/AliOSSUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/login.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-gui-samples" beforeDir="false" afterPath="$PROJECT_DIR$/../java-gui-samples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/DepartmentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/DepartmentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/DepartmentDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/DepartmentDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/impl/DepartmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentDAOImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentDAOImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/impl/DepartmentServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/impl/DepartmentServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vacation" beforeDir="false" afterPath="$PROJECT_DIR$/../vacation" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/jdbc-study/target/" />
@@ -81,19 +76,58 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design-study/src/main/java/AdapterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="197">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
               <folding>
-                <element signature="e#163#308#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/RealSubject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Proxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/ProxyPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -116,10 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client1.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Server1.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client2.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Server2.java" />
         <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/ServerThread3.java" />
         <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client3.java" />
         <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client4.java" />
@@ -167,6 +197,10 @@
         <option value="$PROJECT_DIR$/design-study/src/main/java/Sports.java" />
         <option value="$PROJECT_DIR$/design-study/src/main/java/Student.java" />
         <option value="$PROJECT_DIR$/design-study/src/main/java/AdapterTest.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/Subject.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/RealSubject.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/Proxy.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/ProxyPattern.java" />
       </list>
     </option>
   </component>
@@ -196,9 +230,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -208,8 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,13 +271,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="89" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558477760827" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558564319191" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/thread-study/jar/jsoup-1.11.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -291,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdapterTest">
+  <component name="RunManager" selected="Application.ProxyPattern">
     <configuration name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterTest" />
       <module name="design-study" />
@@ -325,15 +359,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.thread.test.LoginFrame" />
-      <module name="thread-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1841.thread.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ProxyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProxyPattern" />
+      <module name="design-study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -353,11 +381,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProxyPattern" />
         <item itemvalue="Application.AdapterTest" />
         <item itemvalue="Application.TimerDemo" />
         <item itemvalue="Application.ClockFrame" />
         <item itemvalue="Application.FactoryTest" />
-        <item itemvalue="Application.LoginFrame" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +517,9 @@
       <workItem from="1558396218974" duration="14000" />
       <workItem from="1558408403276" duration="124000" />
       <workItem from="1558416247590" duration="1549000" />
-      <workItem from="1558476746083" duration="859000" />
+      <workItem from="1558476746083" duration="1139000" />
+      <workItem from="1558501916996" duration="602000" />
+      <workItem from="1558563811713" duration="401000" />
     </task>
     <task id="LOCAL-00001" summary="Swing布局管理器">
       <created>1553769859903</created>
@@ -547,17 +577,24 @@
       <option name="project" value="LOCAL" />
       <updated>1558390858001</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="设计模式（三）：适配器模式">
+      <created>1558477798406</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558477798406</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254313000" />
+    <option name="totallyTimeSpent" value="255596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.25737265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.26407507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -642,22 +679,10 @@
     <MESSAGE value="设计模式练习：单例模式" />
     <MESSAGE value="设计模式二：工厂模式" />
     <MESSAGE value="设计模式（二）：工厂模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式（二）：工厂模式" />
+    <MESSAGE value="设计模式（三）：适配器模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式（三）：适配器模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/util-study/src/com/soft1841/util/Singleton.java" />
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/test/ShadePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="906">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-study/src/com/soft1841/design/Singleton.java" />
-    <entry file="file://$PROJECT_DIR$/design-study/src/com/soft1841/design/SingletonTest.java" />
     <entry file="file://$PROJECT_DIR$/util-study/src/com/soft1841/util/SingletonTest.java" />
     <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/test/LoginFrame.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -952,16 +977,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/design-study/src/main/java/AdapterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="197">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding>
-            <element signature="e#163#308#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/RealSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/ProxyPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
