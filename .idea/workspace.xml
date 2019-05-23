@@ -7,22 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="041bc15a-93d7-46ce-b5ab-e38c488cdd78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/ProxyPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/utils/AliOSSUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/LoggerCloud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/LoggerFileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/main/java/TimeLoggerDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-study/src/test/java/LoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/CClassDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/CClassDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/CClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/CClassService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/impl/CClassServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/border.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/CClassDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/impl/CClassServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-study/src/main/java/AdapterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-study/src/test/java/AdapterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-gui-samples" beforeDir="false" afterPath="$PROJECT_DIR$/../java-gui-samples" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/DepartmentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/DepartmentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/DepartmentDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/DepartmentDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Department.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/DepartmentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/impl/DepartmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/impl/DepartmentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentDAOImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentDAOImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/impl/DepartmentServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/impl/DepartmentServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vacation" beforeDir="false" afterPath="$PROJECT_DIR$/../vacation" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/jdbc-study/target/" />
@@ -48,97 +51,14 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Study.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Sports.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/AdapterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-              <folding>
-                <element signature="e#509#510#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Subject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/RealSubject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-              <folding>
-                <element signature="e#90#91#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding>
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design-study/src/main/java/ProxyPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -150,12 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/ServerThread3.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client3.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client4.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/socket/Server.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/socket/Client.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Server4.java" />
         <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client5.java" />
         <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Server5.java" />
         <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Server6.java" />
@@ -201,6 +115,12 @@
         <option value="$PROJECT_DIR$/design-study/src/main/java/RealSubject.java" />
         <option value="$PROJECT_DIR$/design-study/src/main/java/Proxy.java" />
         <option value="$PROJECT_DIR$/design-study/src/main/java/ProxyPattern.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/Logger.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/LoggerFileSystem.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/LoggerCloud.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/TimeLoggerDecorator.java" />
+        <option value="$PROJECT_DIR$/design-study/src/test/java/LoggerTest.java" />
+        <option value="$PROJECT_DIR$/design-study/src/main/java/LoggerTest.java" />
       </list>
     </option>
   </component>
@@ -242,6 +162,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,19 +189,32 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="89" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558564319191" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558649976210" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/thread-study/jar/jsoup-1.11.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -290,6 +225,12 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JavaStudy\java-advance\design-study\src\test\java" />
       <recent name="D:\JavaStudy\java-advance\gui-form\src" />
@@ -301,6 +242,9 @@
       <recent name="D:\JavaStudy\java-advance\socket-study\src\socket" />
       <recent name="D:\JavaStudy\java-advance\socket-study\src" />
       <recent name="D:\JavaStudy\java-advance\thread-study\jar" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.soft1841.design" />
@@ -519,7 +463,9 @@
       <workItem from="1558416247590" duration="1549000" />
       <workItem from="1558476746083" duration="1139000" />
       <workItem from="1558501916996" duration="602000" />
-      <workItem from="1558563811713" duration="401000" />
+      <workItem from="1558563811713" duration="760000" />
+      <workItem from="1558577765764" duration="13000" />
+      <workItem from="1558648951208" duration="834000" />
     </task>
     <task id="LOCAL-00001" summary="Swing布局管理器">
       <created>1553769859903</created>
@@ -584,17 +530,23 @@
       <option name="project" value="LOCAL" />
       <updated>1558477798406</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="设计模式（四）：代理模式">
+      <created>1558564360223</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558564360224</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255596000" />
+    <option name="totallyTimeSpent" value="256802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.26407507" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.2707775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -603,7 +555,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50138503" side_tool="true" weight="0.2774799" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.30470914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.38504156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -680,21 +632,10 @@
     <MESSAGE value="设计模式二：工厂模式" />
     <MESSAGE value="设计模式（二）：工厂模式" />
     <MESSAGE value="设计模式（三）：适配器模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式（三）：适配器模式" />
+    <MESSAGE value="设计模式（四）：代理模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式（四）：代理模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/util-study/src/com/soft1841/util/SingletonTest.java" />
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/test/LoginFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-study/src/com/soft1841/design/Shape.java" />
-    <entry file="file://$PROJECT_DIR$/design-study/src/com/soft1841/design/Circle.java" />
-    <entry file="file://$PROJECT_DIR$/design-study/src/com/soft1841/design/Rectangle.java" />
-    <entry file="file://$PROJECT_DIR$/design-study/src/com/soft1841/design/ShapeFactory.java" />
     <entry file="file://$PROJECT_DIR$/design-study/src/com/soft1841/design/FactoryTest.java" />
     <entry file="file://$PROJECT_DIR$/design-study/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -975,7 +916,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/AdapterTest.java">
+    <entry file="file://$PROJECT_DIR$/design-study/src/test/java/AdapterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
@@ -994,23 +935,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/design-study/src/main/java/RealSubject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="196">
+          <caret line="9" selection-start-line="6" selection-start-column="34" selection-end-line="9" />
           <folding>
             <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="448">
+          <caret line="18" selection-start-line="10" selection-start-column="20" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -1018,6 +955,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/test/java/LoggerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/test/java/LoggerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/TimeLoggerDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/LoggerCloud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-study/src/main/java/LoggerFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
